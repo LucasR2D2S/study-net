@@ -1,0 +1,15 @@
+D:\Projetos\CsharpProjects\TestProject\LogicNet\bin\Debug\net8.0\LogicNet.exe
+D:\Projetos\CsharpProjects\TestProject\LogicNet\bin\Debug\net8.0\LogicNet.deps.json
+D:\Projetos\CsharpProjects\TestProject\LogicNet\bin\Debug\net8.0\LogicNet.runtimeconfig.json
+D:\Projetos\CsharpProjects\TestProject\LogicNet\bin\Debug\net8.0\LogicNet.dll
+D:\Projetos\CsharpProjects\TestProject\LogicNet\bin\Debug\net8.0\LogicNet.pdb
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.AssemblyInfoInputs.cache
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.AssemblyInfo.cs
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.csproj.CoreCompileInputs.cache
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.sourcelink.json
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.dll
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\refint\LogicNet.dll
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.pdb
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\LogicNet.genruntimeconfig.cache
+D:\Projetos\CsharpProjects\TestProject\LogicNet\obj\Debug\net8.0\ref\LogicNet.dll
