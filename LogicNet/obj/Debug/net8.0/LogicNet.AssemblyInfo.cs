@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1e56785feee2d43d8ec293949b8be3f4624e16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f851db85db59a7d091d486799d50e1366f95ce5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
