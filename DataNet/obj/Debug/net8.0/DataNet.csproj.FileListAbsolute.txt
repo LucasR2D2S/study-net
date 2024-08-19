@@ -1,0 +1,15 @@
+D:\Projetos\CsharpProjects\TestProject\DataNet\bin\Debug\net8.0\DataNet.exe
+D:\Projetos\CsharpProjects\TestProject\DataNet\bin\Debug\net8.0\DataNet.deps.json
+D:\Projetos\CsharpProjects\TestProject\DataNet\bin\Debug\net8.0\DataNet.runtimeconfig.json
+D:\Projetos\CsharpProjects\TestProject\DataNet\bin\Debug\net8.0\DataNet.dll
+D:\Projetos\CsharpProjects\TestProject\DataNet\bin\Debug\net8.0\DataNet.pdb
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.AssemblyInfoInputs.cache
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.AssemblyInfo.cs
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.csproj.CoreCompileInputs.cache
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.sourcelink.json
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.dll
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\refint\DataNet.dll
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.pdb
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\DataNet.genruntimeconfig.cache
+D:\Projetos\CsharpProjects\TestProject\DataNet\obj\Debug\net8.0\ref\DataNet.dll
