@@ -1,0 +1,15 @@
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\bin\Debug\net8.0\MethodsNet.exe
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\bin\Debug\net8.0\MethodsNet.deps.json
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\bin\Debug\net8.0\MethodsNet.runtimeconfig.json
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\bin\Debug\net8.0\MethodsNet.dll
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\bin\Debug\net8.0\MethodsNet.pdb
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.AssemblyInfoInputs.cache
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.AssemblyInfo.cs
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.csproj.CoreCompileInputs.cache
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.sourcelink.json
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.dll
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\refint\MethodsNet.dll
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.pdb
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\MethodsNet.genruntimeconfig.cache
+D:\Projetos\CsharpProjects\TestProject\MethodsNet\obj\Debug\net8.0\ref\MethodsNet.dll
