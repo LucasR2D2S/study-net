@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f1740b2f30caaeb7959e20ca8a18f46e325b87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+357745321cacb58792f2d7871187133356651b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
