@@ -1,0 +1,15 @@
+d:\Projetos\CsharpProjects\TestProject\DebugNet\bin\Debug\net8.0\DebugNet.exe
+d:\Projetos\CsharpProjects\TestProject\DebugNet\bin\Debug\net8.0\DebugNet.deps.json
+d:\Projetos\CsharpProjects\TestProject\DebugNet\bin\Debug\net8.0\DebugNet.runtimeconfig.json
+d:\Projetos\CsharpProjects\TestProject\DebugNet\bin\Debug\net8.0\DebugNet.dll
+d:\Projetos\CsharpProjects\TestProject\DebugNet\bin\Debug\net8.0\DebugNet.pdb
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.AssemblyInfoInputs.cache
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.AssemblyInfo.cs
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.csproj.CoreCompileInputs.cache
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.sourcelink.json
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.dll
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\refint\DebugNet.dll
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.pdb
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\DebugNet.genruntimeconfig.cache
+d:\Projetos\CsharpProjects\TestProject\DebugNet\obj\Debug\net8.0\ref\DebugNet.dll
